@@ -6,4 +6,4 @@
 
 ----
 
-In this repository is included all the code developed for the final assignment of the 'Inteligent Systems' subject from the University of La Laguna.
+This repository includes all the code developed for the final assignment of the 'Inteligent Systems' subject from the University of La Laguna.
