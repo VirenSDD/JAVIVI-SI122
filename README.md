@@ -4,7 +4,7 @@ This repository includes all the code developed for the final assignment of the 
 
 Each of the developed scenarios can be played through the binary builds provided in the [Releases](https://github.com/alu0101233598/JAVIVI-SI122/releases) page.
 
-This project was documented in Spanish.
+This project was developed in English but documented in Spanish (report and presentation).
 
 ## Group components
 * Javier Correa Marichal - alu0101233598
